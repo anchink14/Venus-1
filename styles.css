@@ -1,0 +1,26 @@
+body {
+    background:url(http://www.astronoo.com/images/planetes/venus/venus-magellan.jpg)no-repeat;
+    background-position:center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+.game {
+    display: flex;
+    justify-content: space-around;
+ flex-wrap: wrap;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.yard {
+    width: 200px;
+}
+
+img {
+    width: 200px;
+    height: 196px;
+}
+
+.title{text-align:center;
+color:pink;}
